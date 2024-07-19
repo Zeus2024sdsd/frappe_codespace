@@ -1,0 +1,4 @@
+2024-07-19 05:15:35,509 WARNING database DDL Query made to DB:
+ALTER TABLE `tabAirplane Flight` ADD COLUMN `is_publised` tinyint NOT NULL DEFAULT 0, ADD COLUMN `route` varchar(140)
+2024-07-19 05:15:35,595 WARNING database DDL Query made to DB:
+ALTER TABLE `tabAirplane Flight` MODIFY `duration` decimal(21,9)

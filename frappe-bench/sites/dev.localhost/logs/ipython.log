@@ -1,0 +1,19 @@
+2024-06-26 01:51:23,063 INFO ipython === bench console session ===
+2024-06-26 01:51:23,064 INFO ipython === session end ===
+2024-06-26 04:25:40,164 INFO ipython === bench console session ===
+2024-06-26 04:25:40,165 INFO ipython frappe.db.commit()
+2024-06-26 04:25:40,165 INFO ipython d = frappe.new_doc("Driver")
+2024-06-26 04:25:40,165 INFO ipython d.licensenumber = "DHKJ3243"
+2024-06-26 04:25:40,165 INFO ipython d.firstname = "Jon"
+2024-06-26 04:25:40,165 INFO ipython d.lastname = "Jay"
+2024-06-26 04:25:40,165 INFO ipython d.save()
+2024-06-26 04:25:40,166 INFO ipython frappe.db.commit()
+2024-06-26 04:25:40,166 INFO ipython d.send_alert()
+2024-06-26 04:25:40,166 INFO ipython === session end ===
+2024-06-26 05:28:59,201 INFO ipython === bench console session ===
+2024-06-26 05:28:59,201 INFO ipython file = frappe.get_doc("File", "0d765d636a")
+2024-06-26 05:28:59,201 INFO ipython file.get_content()
+2024-06-26 05:28:59,201 INFO ipython frappe.db.get_list
+2024-06-26 05:28:59,201 INFO ipython frappe.get_list
+2024-06-26 05:28:59,202 INFO ipython frappe.db.get_all
+2024-06-26 05:28:59,202 INFO ipython === session end ===

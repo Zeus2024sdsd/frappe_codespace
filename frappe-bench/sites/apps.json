@@ -1,0 +1,41 @@
+{
+    "frappe": {
+        "resolution": {
+            "commit_hash": null,
+            "branch": null
+        },
+        "required": [],
+        "idx": 1,
+        "version": "16.0.0-dev"
+    },
+    "rentals": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "455c95c33ef6439023e6473bb98b55cee1e4e2a0",
+            "branch": "main"
+        },
+        "required": [],
+        "idx": 2,
+        "version": "0.0.1"
+    },
+    "airplane_mode": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "76cd14586266158919853756903afbe982276d1d",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 3,
+        "version": "0.0.1"
+    },
+    "doppio": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "74553e578ba6467512008d67bece82de34324471",
+            "branch": "master"
+        },
+        "required": [],
+        "idx": 4,
+        "version": "0.0.1"
+    }
+}

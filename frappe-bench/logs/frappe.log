@@ -1,0 +1,219 @@
+2024-07-09 03:29:31,287 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {'report_name': 'Vehicles by Make', 'filters': '{}', 'ignore_prepared_report': 'false', 'are_default_filters': 'true', 'cmd': 'frappe.desk.query_report.run'}
+2024-07-09 06:08:54,098 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {'report_name': 'Revenue by Make', 'filters': '{}', 'ignore_prepared_report': 'false', 'are_default_filters': 'true', 'cmd': 'frappe.desk.query_report.run'}
+2024-07-09 06:10:23,199 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {'report_name': 'Revenue by Make', 'filters': '{}', 'ignore_prepared_report': 'false', 'are_default_filters': 'true', 'cmd': 'frappe.desk.query_report.run'}
+2024-07-09 06:17:52,505 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {'report_name': 'Revenue by Make', 'filters': '{}', 'ignore_prepared_report': 'false', 'are_default_filters': 'true', 'cmd': 'frappe.desk.query_report.run'}
+2024-07-09 06:19:08,091 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {'report_name': 'Revenue by Make', 'filters': '{}', 'ignore_prepared_report': 'false', 'are_default_filters': 'true', 'cmd': 'frappe.desk.query_report.run'}
+2024-07-09 06:20:11,064 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {'report_name': 'Revenue by Make', 'filters': '{}', 'ignore_prepared_report': 'false', 'are_default_filters': 'true', 'cmd': 'frappe.desk.query_report.run'}
+2024-07-10 01:43:56,836 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 02:34:17,860 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 02:34:24,219 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 02:34:27,713 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 02:34:28,545 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 02:34:37,424 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 02:34:37,685 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 02:34:45,613 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 02:34:47,802 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 02:34:54,644 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 02:35:05,697 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 02:35:37,533 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 02:35:39,512 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 02:35:39,903 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 02:35:40,241 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 02:35:40,445 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 02:35:46,141 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 02:35:46,435 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 02:39:46,072 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 02:39:46,265 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 02:39:54,241 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 02:39:54,434 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 03:12:29,418 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 03:12:29,787 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 03:12:32,526 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 03:12:32,866 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 03:12:35,290 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 03:12:35,641 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 03:12:40,185 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 03:12:40,665 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 03:12:43,341 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 03:12:43,541 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 03:12:45,524 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 03:12:45,784 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 04:27:02,028 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 04:27:02,917 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 04:27:07,803 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 04:27:08,159 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 04:31:38,241 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-10 04:31:38,567 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-11 03:54:38,380 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-11 03:54:39,112 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-11 03:57:39,776 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-11 03:57:41,457 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-11 03:57:48,171 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-11 03:57:48,390 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-11 03:57:52,101 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-11 03:57:52,320 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-11 03:57:55,055 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-11 03:57:55,275 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-11 03:58:25,251 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-11 03:58:25,793 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-11 03:58:34,280 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-11 03:58:34,501 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-11 05:18:26,337 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-11 05:18:26,829 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-11 05:18:36,259 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-11 05:18:36,475 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-11 05:18:42,337 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-11 05:18:42,537 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-11 05:18:44,515 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-11 05:18:44,718 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-11 05:29:37,083 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-11 05:29:37,595 ERROR frappe New Exception collected in error log
+Site: dev.localhost
+Form Dict: {}
+2024-07-15 06:51:21,145 ERROR frappe New Exception collected in error log
+Site: airplane.site
+Form Dict: {'doc': '{"name":"IndiGo-011-AI01-to-APNG01-013","owner":"Administrator","creation":"2024-07-15 16:03:39.508252","modified":"2024-07-15 16:31:52.003393","modified_by":"Administrator","docstatus":0,"idx":0,"passenger":"4","source_airport":"Delhi Airport","source_airport_code":"AI01","flight":"IndiGo-011","destination_airport":"Jackson\'s","destination_airport_code":"APNG01","status":"Booked","departure_date":"2024-07-02","departure_time":"16:02:04","duration_of_flight":122400,"flight_price":101,"total_amount":141,"doctype":"Airplane Ticket","add_ons":[{"name":"ulajgnlh5c","owner":"Administrator","creation":"2024-07-15 16:03:39.508252","modified":"2024-07-15 16:31:52.003393","modified_by":"Administrator","docstatus":0,"idx":1,"item":"In-Flight meal","amount":40,"parent":"IndiGo-011-AI01-to-APNG01-013","parentfield":"add_ons","parenttype":"Airplane Ticket","doctype":"Airplane Ticket Add-on Item"},{"docstatus":0,"doctype":"Airplane Ticket Add-on Item","name":"new-airplane-ticket-add-on-item-tmytzihmwp","__islocal":1,"__unsaved":1,"owner":"Administrator","amount":50,"parent":"IndiGo-011-AI01-to-APNG01-013","parentfield":"add_ons","parenttype":"Airplane Ticket","idx":2,"__unedited":false,"item":"Special Seat"}],"__last_sync_on":"2024-07-15T06:50:57.470Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-07-15 06:51:41,379 ERROR frappe New Exception collected in error log
+Site: airplane.site
+Form Dict: {'doc': '{"name":"IndiGo-011-AI01-to-APNG01-013","owner":"Administrator","creation":"2024-07-15 16:03:39.508252","modified":"2024-07-15 16:31:52.003393","modified_by":"Administrator","docstatus":0,"idx":0,"passenger":"4","source_airport":"Delhi Airport","source_airport_code":"AI01","flight":"IndiGo-011","destination_airport":"Jackson\'s","destination_airport_code":"APNG01","status":"Booked","departure_date":"2024-07-02","departure_time":"16:02:04","duration_of_flight":122400,"flight_price":101,"total_amount":141,"doctype":"Airplane Ticket","add_ons":[{"name":"ulajgnlh5c","owner":"Administrator","creation":"2024-07-15 16:03:39.508252","modified":"2024-07-15 16:31:52.003393","modified_by":"Administrator","docstatus":0,"idx":1,"item":"In-Flight meal","amount":40,"parent":"IndiGo-011-AI01-to-APNG01-013","parentfield":"add_ons","parenttype":"Airplane Ticket","doctype":"Airplane Ticket Add-on Item"},{"docstatus":0,"doctype":"Airplane Ticket Add-on Item","name":"new-airplane-ticket-add-on-item-tmytzihmwp","__islocal":1,"__unsaved":1,"owner":"Administrator","amount":50,"parent":"IndiGo-011-AI01-to-APNG01-013","parentfield":"add_ons","parenttype":"Airplane Ticket","idx":2,"__unedited":false,"item":"Special Seat"}],"__last_sync_on":"2024-07-15T06:50:57.470Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-07-15 06:52:04,601 ERROR frappe New Exception collected in error log
+Site: airplane.site
+Form Dict: {'doc': '{"name":"IndiGo-011-AI01-to-APNG01-013","owner":"Administrator","creation":"2024-07-15 16:03:39.508252","modified":"2024-07-15 16:31:52.003393","modified_by":"Administrator","docstatus":0,"idx":0,"passenger":"4","source_airport":"Delhi Airport","source_airport_code":"AI01","flight":"IndiGo-011","destination_airport":"Jackson\'s","destination_airport_code":"APNG01","status":"Booked","departure_date":"2024-07-02","departure_time":"16:02:04","duration_of_flight":122400,"flight_price":101,"total_amount":141,"doctype":"Airplane Ticket","add_ons":[{"name":"ulajgnlh5c","owner":"Administrator","creation":"2024-07-15 16:03:39.508252","modified":"2024-07-15 16:31:52.003393","modified_by":"Administrator","docstatus":0,"idx":1,"item":"In-Flight meal","amount":40,"parent":"IndiGo-011-AI01-to-APNG01-013","parentfield":"add_ons","parenttype":"Airplane Ticket","doctype":"Airplane Ticket Add-on Item"},{"docstatus":0,"doctype":"Airplane Ticket Add-on Item","name":"new-airplane-ticket-add-on-item-xvbuqribkq","__islocal":1,"__unsaved":1,"owner":"Administrator","amount":50,"parent":"IndiGo-011-AI01-to-APNG01-013","parentfield":"add_ons","parenttype":"Airplane Ticket","idx":2,"__unedited":false,"item":"Special Seat"}],"__last_sync_on":"2024-07-15T06:51:44.944Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
